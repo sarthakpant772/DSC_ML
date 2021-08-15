@@ -1,5 +1,5 @@
 
-## ML.now() 2.0
+## DSC_ML
 
 > 👩🏻‍💻  This repository is a task given by  `DSC-JIIT128`. And this repository is created by  [Sarthak Pant](https://github.com/sarthakpant772)
 
