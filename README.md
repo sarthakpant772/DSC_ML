@@ -4,9 +4,9 @@
 > 👩🏻‍💻  This repository is a task given by  `DSC-JIIT128`. And this repository is created by  [Sarthak Pant](https://github.com/sarthakpant772)
 
 
-![](https://img.shields.io/badge/TensorFlow-v2.4.0-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Python-v3.9-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=5a4fcf)
+![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=whit)
 
 
 
