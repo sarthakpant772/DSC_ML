@@ -31,7 +31,16 @@ $ git push -u origin <branch-name>
 
 - For more features or in case of any bugs, [raise an issue](https://github.com/sarthakpant772/DSC_ML/issues).
 
-### Reach out
+
+## About the dataset
+![picture](https://thesaudiexpat.com/wp-content/uploads/2018/10/annual-leave1.png)
+ - This dataset give us information about weather a person leave his or her job on the basis of some parameter.
+ - [Download the dataset](https://www.kaggle.com/manasdalakoti/univai-hack-data)
+ 
+
+
+
+## Reach out
 
 [@sarthakpant:](https://github.com/sarthakpant772)
 [![Twitter][1.2]][1]
